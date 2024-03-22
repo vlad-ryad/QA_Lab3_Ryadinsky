@@ -1,0 +1,14 @@
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\bin\Debug\netcoreapp3.1\CircleTest.exe
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\bin\Debug\netcoreapp3.1\CircleTest.deps.json
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\bin\Debug\netcoreapp3.1\CircleTest.runtimeconfig.json
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\bin\Debug\netcoreapp3.1\CircleTest.runtimeconfig.dev.json
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\bin\Debug\netcoreapp3.1\CircleTest.dll
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\bin\Debug\netcoreapp3.1\CircleTest.pdb
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\obj\Debug\netcoreapp3.1\CircleTest.csproj.AssemblyReference.cache
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\obj\Debug\netcoreapp3.1\CircleTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\obj\Debug\netcoreapp3.1\CircleTest.AssemblyInfoInputs.cache
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\obj\Debug\netcoreapp3.1\CircleTest.AssemblyInfo.cs
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\obj\Debug\netcoreapp3.1\CircleTest.csproj.CoreCompileInputs.cache
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\obj\Debug\netcoreapp3.1\CircleTest.dll
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\obj\Debug\netcoreapp3.1\CircleTest.pdb
+D:\Programmirovanie)\Politekh IVT-12\3-kyrs_6-semestr\test_lab3\CircleTest\obj\Debug\netcoreapp3.1\CircleTest.genruntimeconfig.cache
